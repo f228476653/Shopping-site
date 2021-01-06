@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "5fc2acfd841cc8daa342bd09"
+  },
+  "id": 1,
+  "email": "hui@gmail",
+  "password": "123"
+},{
+  "_id": {
+    "$oid": "5fc2ad879688820867c44b8e"
+  },
+  "email": "hui@gmail",
+  "password": "$2a$10$8Cc6Og8bqJazl/gTuDYhhudb.e6IslcOblLJuOKNfDS/S/sDtKVJy"
+},{
+  "_id": {
+    "$oid": "5fc2b122358deb08b53fb951"
+  },
+  "email": "hui2@gmail",
+  "password": "$2a$10$CpAONNPiLwHUFkhaflD26urIZFRweJRNiXxOFOUHOaqmka2d/7RFK"
+},{
+  "_id": {
+    "$oid": "5fc533ae5662421e4ee24330"
+  },
+  "email": "123@gmail",
+  "password": "$2a$10$bjGzkADcN4u52iYIFRVHXOavXX52bH5ITZ/9c6ooP2L26QJfguJN2"
+},{
+  "_id": {
+    "$oid": "5fc69aa6ac147f2acaaf4d77"
+  },
+  "email": "anita@gmail",
+  "password": "$2a$10$r.FEK/3J0LJOLPNsL0.9lOmcdIP1l6Pl/FVpLEP9ZngQipe.e60aW"
+},{
+  "_id": {
+    "$oid": "5fc69d4cac147f2acaaf4d7b"
+  },
+  "email": "test123@gmail",
+  "password": "$2a$10$91nw3.vVTB0liEzkDpDjSeO7W9kND0lfM66M9i5f/amneVGCSRmbm"
+}]

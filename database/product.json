@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "5fc09839841cc8daa342bd01"
+  },
+  "id": 1,
+  "name": "Wonder Pore Deep Foaming Cleanser 170ml",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/51zckSkyM3L._AC_SX679_.jpg",
+  "price": 17.8,
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "5fc09839841cc8daa342bd02"
+  },
+  "id": 2,
+  "name": "10-in-1 House Wonder Pore Freshener, 8.44 Ounce",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/618Y3DIgFuL._AC_SX679_.jpg",
+  "price": 25,
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "5fc09839841cc8daa342bd03"
+  },
+  "id": 3,
+  "name": "New complexion one step makeup tender peach 9.9g",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/61DEHMLaXZL._AC_SX679_.jpg",
+  "price": 29.99,
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "5fc09839841cc8daa342bd04"
+  },
+  "id": 4,
+  "name": "Poreless Foundation Makeup, Classic Ivory, 1 Fluid Ounce",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71froFgPoHL._AC_SX679_.jpg",
+  "price": 20.29,
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "5fc09839841cc8daa342bd05"
+  },
+  "id": 5,
+  "name": "Advanced Snail 96 Mucin Power Essence, 100ml",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71lU6Gcx0pL._AC_SX679_.jpg",
+  "price": 20.29,
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "5fc09839841cc8daa342bd06"
+  },
+  "id": 6,
+  "name": "Ph Good Morning Gel Cleanser 150ml",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/61R2nMpQouL._AC_SX679_.jpg",
+  "price": 28.29,
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "5fc09839841cc8daa342bd07"
+  },
+  "id": 7,
+  "name": "Purifying Cleansing Gel, 150ml",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71dwRove7JL._SX522_.jpg",
+  "price": 8.98,
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "5fc09839841cc8daa342bd08"
+  },
+  "id": 8,
+  "name": "Soothing Body Lotion for dry skin African Black Soap paraben free 384 ml",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71y1rZkmSvL._AC_SX679_.jpg",
+  "price": 22.89,
+  "rating": 4
+}]
